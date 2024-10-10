@@ -4,34 +4,27 @@
 ## Challenge: Intro to Commands
 - **Flag:** `pwn.college{M_PeIJ_OmFxmZwaEg1QEgXkY58C.ddjNyUDL3IjN1czW}`
 - **Thought Process:** Using `hello` as a command.
-- **Command:** `hello`
 
 ## Challenge: Intro to Arguments
 - **Flag:** `pwn.college{gILdjnBOdGmuq0LOGSKLxFupHpm.dhjNyUDL3IjN1czW}`
 - **Thought Process:** Intro to Commands.
-- **Command:** `hello hackers`
-
 # Module: Pondering Paths
 
 ## Challenge: The Root
 - **Flag:** `pwn.college{UZo-oUEpeD4Qn2XwL7xjmxZEna1.dhzN5QDL3IjN1czW}`
-- **Thought Process:** 
-- **Command:** 
-
+- **Thought Process:**
+- 
 ## Challenge: Program and Absolute Paths
 - **Flag:** `pwn.college{84QIGzVnnuU2E0ilj1LzCKq7z1h.dZDN1QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Position Thyself
 - **Flag:** `pwn.college{YHnjbwN3TEdThT2ZPQO-XhSAkvI.ddDN1QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Position Elsewhere
 - **Flag:** `pwn.college{0TtVueXgdGvPvhpDnFQAGpGGwg8.dhDN1QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Position Yet Elsewhere
 - **Flag:** `pwn.college{skOf-l3iCP6Uv5Y993Kpqd9c1H_.dlDN1QDL3IjN1czW}`
@@ -41,79 +34,64 @@
 ## Challenge: Implicit Relative Paths, from/
 - **Flag:** `pwn.college{wHKbCrIE7FelO7WxYLMEuykObAf.dBTN1QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Explicit Relative Paths, from/
 - **Flag:** `pwn.college{YFz7XVqf2K8CJT4wSnM8uxiW0-E.dFTN1QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Home Sweet Home
 - **Flag:** `pwn.college{4Ih7TsKAA68oqbJmZCHEQVdxaNn.dlTM5QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 # Module: Comprehending Commands
 
 ## Challenge: Cat Not the Pet but the Command
 - **Flag:** `pwn.college{g13Om11iM5dWMUDzptc_0GSVOwQ.dFzN1QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Catting Absolute Paths
 - **Flag:** `pwn.college{4Ih7TsKAA68oqbJmZCHEQVdxaNn.dlTM5QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: More Catting Practice
 - **Flag:** `pwn.college{MljvjVca6TcaZRpMohC3XnTftZ-.dBjM5QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Grepping for a Needle in a Haystack
 - **Flag:** `pwn.college{kcdUaIfGp1S5XR_4UHedtkhNnEB.ddTM4QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Listing Files
 - **Flag:** `pwn.college{QUe5FiCcQkTkOI0P3q_biX-yBsg.dBzM4QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Touching Files
 - **Flag:** `pwn.college{4Ih7TsKAA68oqbJmZCHEQVdxaNn.dlTM5QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Removing Files
 - **Flag:** 
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Hidden Files
 - **Flag:** 
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: An Epic Filesystem Quest
 - **Flag:** 
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Making Directories
 - **Flag:** `pwn.college{0uZersHrzwhB3YfLE4lasoKVTog.dljM4QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Finding Files
 - **Flag:** `pwn.college{UJ0P0d088t8uNckOmsxV2aLnFXQ.dFzM4QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Linking Files
 - **Flag:** `pwn.college{Qxgo5k1VifNoqvzJ6l1xPR5Fde8.dJzM4QDL3IjN1czW}`
 - **Thought Process:** 
-- **Command:** 
 
 # Module: Digesting Documentation
 
@@ -171,74 +149,62 @@
 
 # Module: Command Challenges
 
+# Module: Command Challenges
+
 ## Challenge: [paths]
 - **Flag:** pwn.college{kcW01kldDBmz6DzuV83y5qt5kGa.dRjM4QDL3IjN1czW}
 - **Thought Process:** Matched paths with square brackets to filter specific files.
-- **Command:** 
 
 ## Challenge: 
 - **Flag:** pwn.college{8E97Tvg2NQhHzNCicvU8E0kIcZj.dVjM4QDL3IjN1czW}
 - **Thought Process:** Used globbing with `cep`, identifying unique first characters to retrieve respective initial letters, with the asterisk expanding the matches.
-- **Command:** 
 
 ## Challenge: 
 - **Flag:** pwn.college{gAwKUh5MURytkngtO1ygBoVSYrr.dZjM4QDL3IjN1czW}
 - **Thought Process:** Applied globbing with `!pwn`, effectively retrieving specific files based on the initial letters of each.
-- **Command:** 
 
 # Module: Practicing Piping
 
 ## Challenge: Redirecting Output
 - **Flag:** pwn.college{Q-dFQAmaHj4C5EluNy5S6UoZPN_.dRjN1QDL3IjN1czW}
 - **Thought Process:** Redirected the output of the `echo` command to the file named college.
-- **Command:** 
 
 ## Challenge: Redirecting More Output
 - **Flag:** pwn.college{ceZRytB4dOTzCl2PlXEd5XgRFx3.dVjN1QDL3IjN1czW}
 - **Thought Process:** Directed the command `/challenge/run` output to a file and read it using `cat`.
-- **Command:** 
 
 ## Challenge: Appending Output
 - **Flag:** pwn.college{Ylnk-HX1rtROVkJO8l3PaZR3ncX.ddDM5QDL3IjN1czW}
 - **Thought Process:** Used the append operator `>>` on a file, then read it with `cat` to reveal the flag.
-- **Command:** 
 
 ## Challenge: Redirecting Errors
 - **Flag:** pwn.college{sFTfBYmPrNBC2onFkNELecI_G1e.ddjN1QDL3IjN1czW}
 - **Thought Process:** Understood the usage of different streams, directing standard output to a file and errors to instructions.
-- **Command:** 
 
 ## Challenge: Redirecting Input
 - **Flag:** pwn.college{0eRZo9iyXcdBMkpxG118BmZrmF2.dBzN1QDL3IjN1czW}
 - **Thought Process:** Channeled output to pwn and took pwn's input for the command `challenge/run`.
-- **Command:** 
 
 ## Challenge: Grepping Stored Results
 - **Flag:** pwn.college{ka3Tgt-mZTEn_Zn0Ptcvl0fk-Pc.dhTM4QDL3IjN1czW}
 - **Thought Process:** Redirected output to a file and used `pwn` as the parameter for the `grep` command.
-- **Command:** 
 
 ## Challenge: Grepping Live Output
 - **Flag:** pwn.college{0XPztVjpcoDypTQvHYXrvpa9KP8.dlTM4QDL3IjN1czW}
 - **Thought Process:** Executed `challenge/run` and piped the output to `grep`, using `pwn` to find the flag.
-- **Command:** 
 
 ## Challenge: Grepping Errors
 - **Flag:** pwn.college{Yg-9RETVFZv6-us1m728Q08Uo9a.dVDM5QDL3IjN1czW}
 - **Thought Process:** Executed `challenge/run` and redirected error output using `2>&1` to pipe into `grep`, looking for `pwn` to locate the flag.
-- **Command:** 
 
 ## Challenge: Duplicating Piped Data with Tee
 - **Flag:** pwn.college{M1Twp3EP01HV7ia61WFiS0zr4Q0.dFjM5QDL3IjN1czW}
 - **Thought Process:** Piped data to two files using `tee`, obtaining error information from one file after reading with `cat`, then executed corrected code.
-- **Command:** 
 
 ## Challenge: Writing to Multiple Programs
 - **Flag:** pwn.college{0Qfl-d61C9eeexjz5M9rYTU61-J.dBDO0UDL3IjN1czW}
 - **Thought Process:** 
-- **Command:** 
 
 ## Challenge: Split Piping stderr and stdout
 - **Flag:** pwn.college{AZXrhPbld7X-8I5eNzB9y1leo_q.dFDNwYDL3IjN1czW}
 - **Thought Process:** 
-- **Command:** 
