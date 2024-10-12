@@ -72,5 +72,5 @@
 
 ## Challenge 11: Split Piping `stderr` and `stdout`
 - **Flag:** `pwn.college{AZXrhPbld7X-8I5eNzB9y1leo_q.dFDNwYDL3IjN1czW}`
-- **Thought Process:** (Fill in your thought process here)
-- **Command Used:** (Fill in your command here)
+- **Thought Process:** 
+- **Command Used:**
