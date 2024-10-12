@@ -1,7 +1,7 @@
 # CTF Report: /file globbing Module
 
 ## Challenge 1: Matching with *
-- **Flag:** _(Not provided)_
+- **Flag:** `pwn.college{gSKr6U7vGDZ16Yjund6VhhB14b1.dFjM4QDL3IjN1czW}`
 - **Thought Process:** Used the `*` wildcard to match any string of characters, including no characters, in filenames.
 
 ---
