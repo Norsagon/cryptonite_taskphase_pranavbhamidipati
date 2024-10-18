@@ -65,8 +65,8 @@
 
 ## Challenge 10: Writing to Multiple Programs
 - **Flag:** `pwn.college{0Qfl-d61C9eeexjz5M9rYTU61-J.dBDO0UDL3IjN1czW}`
-- **Thought Process:** (Fill in your thought process here)
-- **Command Used:** (Fill in your command here)
+- **Thought Process:** I piped the output of /challenge/hack , split it to to two commands using tee .
+- **Command Used:** `/challenge/hack | tee  >(/challenge/the) >(/challenge/planet)`
 
 ---
 
