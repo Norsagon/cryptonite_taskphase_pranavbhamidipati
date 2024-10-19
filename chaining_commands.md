@@ -7,8 +7,9 @@
 ---
 
 ## Challenge 2: Your First Shell Script
-- **Flag:** (Not completed)
-- **Thought Process:** (Not completed)
+- **Flag:** `pwn.college{ct4NSqiLqV2fUs7MqcAa3ruwRWV.dFzN4QDL3IjN1czW}
+`
+- **Thought Process:** 
 
 ---
 
